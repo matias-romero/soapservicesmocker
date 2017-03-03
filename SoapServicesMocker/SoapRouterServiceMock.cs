@@ -33,7 +33,6 @@ namespace SoapServicesMocker
         {
             response.ContentEncoding = Encoding.UTF8;
             response.ContentType = "text/xml";
-            //response.SetCookie(new Cookie("AuthenticationCookie", "abcabc"));
             var bytes = Encoding.UTF8.GetBytes(Xml);
             response.Close(bytes, true);
         }

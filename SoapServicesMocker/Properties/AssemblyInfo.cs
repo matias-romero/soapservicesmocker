@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SoapServicesMocker")]
 [assembly: AssemblyDescription("Integration-Tests involving SOAP WebServices made easy")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("MatiasRomero")]
 [assembly: AssemblyProduct("SoapServicesMocker")]
-[assembly: AssemblyCopyright("Copyright©  2017")]
+[assembly: AssemblyCopyright("Copyright© 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
